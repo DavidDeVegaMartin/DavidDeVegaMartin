@@ -1,16 +1,29 @@
-## Hi there 👋
+## 
+<img src="https://iili.io/3O6X7ZN.png" alt="Banner de David - Data Analyst" style="width:100%;" />
 
-<!--
-**DavidDeVegaMartin/DavidDeVegaMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy David  
+### 📊 Analista de Datos con visión estratégica en negocio, finanzas y tecnología
 
-Here are some ideas to get you started:
+Aplico **ciencia de datos** para optimizar decisiones empresariales y financieras.  
+Combino herramientas analíticas con enfoque de negocio para generar valor real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tecnologías y Herramientas
+`SQL` • `Python` • `R` • `Power BI` • `Tableau`
+
+---
+
+## 🧠 Especialidades
+
+- 📈 **Business Intelligence y análisis financiero**
+- 🤖 **Machine learning** para predicción y optimización empresarial
+- ⚙️ **Automatización de procesos** y análisis de rentabilidad
+- 🔍 **Detección de fraude** y gestión del riesgo
+- 📊 **Cuadros de mando** y reporting estratégico
+
+---
+
+🎯 Siempre buscando transformar datos en decisiones inteligentes y accionables.
+
+📬 ¿Colaboramos? ¡Estoy abierto a nuevos retos!
