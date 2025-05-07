@@ -1,7 +1,7 @@
 ## 
 <img src="https://iili.io/3O6X7ZN.png" alt="Banner de David - Data Analyst" style="width:100%;" />
 
-# 👋 ¡Hola! Soy David  
+# 👋 ¡Hola! Soy David De Vega.
 ### 📊 Analista de Datos con visión estratégica en negocio, finanzas y tecnología
 
 Aplico **ciencia de datos** para optimizar decisiones empresariales y financieras.  
